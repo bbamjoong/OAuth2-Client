@@ -65,3 +65,10 @@
 
 - [로그인 완료](https://www.youtube.com/watch?v=jT9qBPPSwFs&list=PLJkjrxxiBSFBGk0b931ZkCVlNUo7sFisu&index=9&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
 - [노션](https://substantial-park-a17.notion.site/9-714b9ed35b7b4a1688fd296a03d70759)
+
+<br>
+
+## Session-Chapter10
+
+- [유저 정보 DB 저장](https://www.youtube.com/watch?v=CY_QrS26Euk&list=PLJkjrxxiBSFBGk0b931ZkCVlNUo7sFisu&index=10&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/10-DB-441554a24d0d4e0c8a1b0e0a5ab7828d)
