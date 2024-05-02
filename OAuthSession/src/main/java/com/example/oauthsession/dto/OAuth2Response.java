@@ -1,5 +1,8 @@
 package com.example.oauthsession.dto;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public interface OAuth2Response {
     // 제공자 (Ex. naver, google, ...)
     String getProvider();
