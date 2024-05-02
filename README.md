@@ -52,3 +52,16 @@
 - [구글 소셜 로그인 신청](https://www.youtube.com/watch?v=VFvlivlhoMo&list=PLJkjrxxiBSFBGk0b931ZkCVlNUo7sFisu&index=7&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
 - [노션](https://substantial-park-a17.notion.site/7-de2e7dccbba64633a4293acf42b8a7cf)
 
+<br>
+
+## Session-Chapter8
+
+- [OAuth2UserService 구현](https://www.youtube.com/watch?v=bMkYibr4BaM&list=PLJkjrxxiBSFBGk0b931ZkCVlNUo7sFisu&index=8&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/8-OAuth2UserService-a1c2009771204e2282c8d38a964563ec)
+
+<br>
+
+## Session-Chapter9
+
+- [로그인 완료](https://www.youtube.com/watch?v=jT9qBPPSwFs&list=PLJkjrxxiBSFBGk0b931ZkCVlNUo7sFisu&index=9&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/9-714b9ed35b7b4a1688fd296a03d70759)
