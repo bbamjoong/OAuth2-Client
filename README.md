@@ -79,3 +79,10 @@
 
 - [커스텀 로그인 페이지](https://www.youtube.com/watch?v=FqEdiOGZmn0&list=PLJkjrxxiBSFBGk0b931ZkCVlNUo7sFisu&index=13&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
 - [노션](https://substantial-park-a17.notion.site/11-2fa75b4d78c14baab1b73506c6de95a9)
+
+<br>
+
+## Session-Chapter12
+
+- [Client Registration](https://www.youtube.com/watch?v=cn3a8b2Gt8k&list=PLJkjrxxiBSFBGk0b931ZkCVlNUo7sFisu&index=13&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/12-ClientRegistration-0cb58c398ab348a68b1bf56eea50d4ba)
