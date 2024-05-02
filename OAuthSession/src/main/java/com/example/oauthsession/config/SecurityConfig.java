@@ -34,6 +34,8 @@ public class SecurityConfig {
         // customOAuth2UserService 주입.
         http
                 .oauth2Login((oauth2) -> oauth2
+                        // 커스텀 로그인 페이지 추가
+                        .loginPage("/login")
                         .userInfoEndpoint((userInfoEndpointConfig -> userInfoEndpointConfig
                                 .userService(customOAuth2UserService))));
 
