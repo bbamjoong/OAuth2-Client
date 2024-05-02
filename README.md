@@ -1,5 +1,10 @@
 # OAuth2-Client-Session
 
+**브랜치별로 강의가 나뉘어 있습니다.**<br><br>
+아래의 강의를 참고했습니다.<br>
+[스프링 OAuth2 클라이언트 세션](https://www.youtube.com/playlist?list=PLJkjrxxiBSFBGk0b931ZkCVlNUo7sFisu)<br>
+[스프링 OAuth2 클라이언트 JWT](https://www.youtube.com/playlist?list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB)<br>
+
 ## Chapter1
 
 - [실습 목표 및 간단 동작 원리](https://www.youtube.com/watch?v=ulb4eNSqCPs&list=PLJkjrxxiBSFBGk0b931ZkCVlNUo7sFisu&index=1&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
