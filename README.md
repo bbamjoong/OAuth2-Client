@@ -86,3 +86,24 @@
 
 - [Client Registration](https://www.youtube.com/watch?v=cn3a8b2Gt8k&list=PLJkjrxxiBSFBGk0b931ZkCVlNUo7sFisu&index=13&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
 - [노션](https://substantial-park-a17.notion.site/12-ClientRegistration-0cb58c398ab348a68b1bf56eea50d4ba)
+
+<br>
+
+## Session-Chapter13
+
+- [OAuth2AuthorizationRequestRedirectFilter](https://www.youtube.com/watch?v=cpx0VUA8Q1c&list=PLJkjrxxiBSFBGk0b931ZkCVlNUo7sFisu&index=14&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/13-OAuth2AuthorizationRequestRedirectFilter-c6115b3850024c64b1e8028cb2396f44)
+
+<br>
+
+## Session-Chapter14
+
+- [OAuth2LoginAuthenticationFilter](https://www.youtube.com/watch?v=jKAaPLXNuq8&list=PLJkjrxxiBSFBGk0b931ZkCVlNUo7sFisu&index=15&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/14-OAuth2LoginAuthenticationFilter-f0d1e32179984d5eb89100fbdb7cfec4?pvs=4)
+
+<br>
+
+## Session-Chapter15
+
+- [OAuth2AuthorizedClientService](https://www.youtube.com/watch?v=NAGoCwc6iBg&list=PLJkjrxxiBSFBGk0b931ZkCVlNUo7sFisu&index=16&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/15-OAuth2AuthorizedClientService-b3eb06e957cc47e385155281c4f056c3?pvs=4)
