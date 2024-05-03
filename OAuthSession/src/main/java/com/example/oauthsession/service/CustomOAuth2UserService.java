@@ -6,6 +6,7 @@ import com.example.oauthsession.dto.NaverResponse;
 import com.example.oauthsession.dto.OAuth2Response;
 import com.example.oauthsession.entity.UserEntity;
 import com.example.oauthsession.repository.UserRepository;
+import com.example.oauthsession.util.UsernameCreator;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.oauth2.client.userinfo.DefaultOAuth2UserService;
 import org.springframework.security.oauth2.client.userinfo.OAuth2UserRequest;
@@ -41,7 +42,7 @@ public class CustomOAuth2UserService extends DefaultOAuth2UserService {
 
         // DB 저장 구현
         // 전달받은 데이터에서 username으로 지칭할 수 있는 것이 없기에 별도의 메소드를 구현한다.
-        String username = oAuth2Response.getProvider() + " " + oAuth2Response.getProviderId();
+        String username = UsernameCreator.getUsername(oAuth2Response);
         UserEntity existData = userRepository.findByUsername(username);
 
         String role = "ROLE_USER";
