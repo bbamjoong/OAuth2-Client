@@ -107,3 +107,61 @@
 
 - [OAuth2AuthorizedClientService](https://www.youtube.com/watch?v=NAGoCwc6iBg&list=PLJkjrxxiBSFBGk0b931ZkCVlNUo7sFisu&index=16&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
 - [노션](https://substantial-park-a17.notion.site/15-OAuth2AuthorizedClientService-b3eb06e957cc47e385155281c4f056c3?pvs=4)
+
+<br>
+<br>
+<br>
+
+## JWT-Chapter1
+
+- [소셜 로그인 실습 목표](https://www.youtube.com/watch?v=xsmKOo-sJ3c&list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB&index=1&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/1-f7f57163220d4fd0a7a2e3a0803c40b6)
+
+<br>
+
+## JWT-Chapter2
+
+- [동작 원리와 프론트/백 책임 분배](https://www.youtube.com/watch?v=6XZ8oJOex_U&list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB&index=2&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/2-acacb442fdce473b91ebdd4e708d5214)
+
+<br>
+
+## JWT-Chapter3
+
+- [프로젝트 생성 및 의존성 추가](https://www.youtube.com/watch?v=BY-HWViE_l4&list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB&index=3&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/3-cc7a75697386412cbbd9208a63a85d68)
+
+<br>
+
+## JWT-Chapter4
+
+- [동작 원리](https://www.youtube.com/watch?v=JQJVHcI7Rzo&list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB&index=4&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/4-38792cea09754526a2e0ffc9b8b8e92d?pvs=4)
+
+<br>
+
+## JWT-Chapter5
+
+- [변수 역할](https://www.youtube.com/watch?v=sUuc0XW2te4&list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB&index=6&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/5-OAuth2-411b3f862ce8410b951b6723f3a8370c?pvs=4)
+
+<br>
+
+## JWT-Chapter6
+
+- [SecurityConfig 등록](https://www.youtube.com/watch?v=NuOLlxPet3w&list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB&index=6&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/6-SecurityConfig-a829015d55814d4785cde544a5050f2a)
+
+<br>
+
+## JWT-Chapter7
+
+- [네이버 소셜 로그인 신청](https://www.youtube.com/watch?v=fNEtoPmgUHs&list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB&index=7&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/7-7aef6d5781c14921992898d5746f449b?pvs=4)
+
+<br>
+
+## JWT-Chapter8
+
+- [구글 소셜 로그인 신청](https://www.youtube.com/watch?v=ed10nojCa9g&list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB&index=8&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/8-e2b945cb381547939eeef5a605d43c8e)
