@@ -1,5 +1,6 @@
 package com.example.oauthjwt.service;
 
+import com.example.oauthjwt.dto.CustomOAuth2User;
 import com.example.oauthjwt.dto.GoogleResponse;
 import com.example.oauthjwt.dto.NaverResponse;
 import com.example.oauthjwt.dto.OAuth2Response;
@@ -25,7 +26,9 @@ public class CustomOAuth2UserService extends DefaultOAuth2UserService {
         } else {
             return null;
         }
+        
+        String role = "ROLE_USER";
 
-        //추후 작성
+        return new CustomOAuth2User(oAuth2Response, role);
     }
 }
