@@ -177,3 +177,10 @@
 
 - [OAuth2UserService 완료](https://www.youtube.com/watch?v=6WVRXwy4gHg&list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB&index=10&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
 - [노션](https://substantial-park-a17.notion.site/10-OAuth2UserService-2b31b4e7e05344078a2f5abc7541b444?pvs=4)
+
+<br>
+
+## JWT-Chapter11
+
+- [유저 정보 DB 저장](https://www.youtube.com/watch?v=ItDxZn3SrNE&list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB&index=11&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/11-DB-7ba37ee838fa4b29b7ca5476bfb7be8a?pvs=4)
