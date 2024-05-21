@@ -184,3 +184,24 @@
 
 - [유저 정보 DB 저장](https://www.youtube.com/watch?v=ItDxZn3SrNE&list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB&index=11&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
 - [노션](https://substantial-park-a17.notion.site/11-DB-7ba37ee838fa4b29b7ca5476bfb7be8a?pvs=4)
+
+<br>
+
+## JWT-Chapter12
+
+- [JWT 발급 및 검증 클래스](https://www.youtube.com/watch?v=VwSKz9m_yvE&list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB&index=12&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/12-JWT-70d80379e1f34cac8e5f5e5d5f197531?pvs=4)
+
+<br>
+
+## JWT-Chapter13
+
+- [로그인 성공 JWT 발급](https://www.youtube.com/watch?v=s6D_zXnrXNo&list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB&index=13&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/13-JWT-0dd9ba0dfd8142fbbbdd674e6e8b1fca?pvs=4)
+
+<br>
+
+## JWT-Chapter14
+
+- [JWT 검증 필터](https://www.youtube.com/watch?v=9g_iN6rLQcQ&list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB&index=14&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/14-JWT-9b7c3146d07f4169ae8bd6f7026eb0ac)

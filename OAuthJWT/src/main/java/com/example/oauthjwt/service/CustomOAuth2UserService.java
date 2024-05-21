@@ -4,6 +4,7 @@ import com.example.oauthjwt.dto.CustomOAuth2User;
 import com.example.oauthjwt.dto.GoogleResponse;
 import com.example.oauthjwt.dto.NaverResponse;
 import com.example.oauthjwt.dto.OAuth2Response;
+import com.example.oauthjwt.dto.UserDTO;
 import com.example.oauthjwt.entity.UserEntity;
 import com.example.oauthjwt.repository.UserRepository;
 import com.example.oauthjwt.util.UsernameCreator;
@@ -45,13 +46,25 @@ public class CustomOAuth2UserService extends DefaultOAuth2UserService {
                     .build();
 
             userRepository.save(userEntity);
+
+            UserDTO userDTO = new UserDTO();
+            userDTO.setUsername(username);
+            userDTO.setName(oAuth2Response.getName());
+            userDTO.setRole(role);
+
+            return new CustomOAuth2User(userDTO);
         } else {
             existData.changeInfo(username, oAuth2Response.getEmail());
             role = existData.getRole();
 
             userRepository.save(existData);
-        }
 
-        return new CustomOAuth2User(oAuth2Response, role);
+            UserDTO userDTO = new UserDTO();
+            userDTO.setUsername(existData.getUsername());
+            userDTO.setName(oAuth2Response.getName());
+            userDTO.setRole(existData.getRole());
+
+            return new CustomOAuth2User(userDTO);
+        }
     }
 }
