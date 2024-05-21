@@ -1,4 +1,4 @@
-package oauth2;
+package com.example.oauthjwt.oauth2;
 
 import com.example.oauthjwt.dto.CustomOAuth2User;
 import jakarta.servlet.ServletException;
@@ -8,7 +8,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.Collection;
 import java.util.Iterator;
-import jwt.JWTUtil;
+import com.example.oauthjwt.jwt.JWTUtil;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.GrantedAuthority;

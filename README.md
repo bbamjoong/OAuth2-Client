@@ -205,3 +205,24 @@
 
 - [JWT 검증 필터](https://www.youtube.com/watch?v=9g_iN6rLQcQ&list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB&index=14&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
 - [노션](https://substantial-park-a17.notion.site/14-JWT-9b7c3146d07f4169ae8bd6f7026eb0ac)
+
+<br>
+
+## JWT-Chapter15
+
+- [CORS 설정](https://www.youtube.com/watch?v=Xiv5KFoEW4w&list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB&index=15&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/15-CORS-0fab821a8e7e40f49a1548a1d3ffcf89)
+
+<br>
+
+## JWT-Chapter16
+
+- [리액트에서 요청](https://www.youtube.com/watch?v=OddaHR7oIWE&list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB&index=16&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/16-3994db4d1c2c423ea25018b7413a8361)
+
+<br>
+
+## JWT-Chapter17
+
+- [재로그인 무한 루프 오류](https://www.youtube.com/watch?v=OCssYnZbLOU&list=PLJkjrxxiBSFALedMwcqDw_BPaJ3qqbWeB&index=18&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9C%A0%EB%AF%B8)<br>
+- [노션](https://substantial-park-a17.notion.site/17-5697c20d9ba845cf956647e58dfb3098)

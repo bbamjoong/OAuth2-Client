@@ -1,10 +1,12 @@
 package com.example.oauthjwt.config;
 
 import com.example.oauthjwt.service.CustomOAuth2UserService;
-import jwt.JWTFilter;
-import jwt.JWTUtil;
+import com.example.oauthjwt.jwt.JWTFilter;
+import com.example.oauthjwt.jwt.JWTUtil;
+import jakarta.servlet.http.HttpServletRequest;
+import java.util.Collections;
 import lombok.RequiredArgsConstructor;
-import oauth2.CustomSuccessHandler;
+import com.example.oauthjwt.oauth2.CustomSuccessHandler;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
@@ -12,6 +14,8 @@ import org.springframework.security.config.annotation.web.configuration.EnableWe
 import org.springframework.security.config.http.SessionCreationPolicy;
 import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
+import org.springframework.web.cors.CorsConfiguration;
+import org.springframework.web.cors.CorsConfigurationSource;
 
 @Configuration
 @EnableWebSecurity
@@ -23,6 +27,24 @@ public class SecurityConfig {
 
     @Bean
     public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
+
+        // CORS 설정
+        http
+                .cors(corsCustomizer -> corsCustomizer.configurationSource(request -> {
+
+                    CorsConfiguration configuration = new CorsConfiguration();
+
+                    configuration.setAllowedOrigins(Collections.singletonList("http://localhost:3000")); // 프론트 포트 3000으로 설정했음.
+                    configuration.setAllowedMethods(Collections.singletonList("*"));
+                    configuration.setAllowCredentials(true);
+                    configuration.setAllowedHeaders(Collections.singletonList("*"));
+                    configuration.setMaxAge(3600L);
+
+                    configuration.setExposedHeaders(Collections.singletonList("Set-Cookie"));
+                    configuration.setExposedHeaders(Collections.singletonList("Authorization"));
+
+                    return configuration;
+                }));
 
         //csrf disable
         http
@@ -40,7 +62,7 @@ public class SecurityConfig {
         http
                 .addFilterBefore(new JWTFilter(jwtUtil), UsernamePasswordAuthenticationFilter.class);
 
-        //oauth2
+        //com.example.oauthjwt.oauth2
         http
                 .oauth2Login((oauth2) -> oauth2
                         .userInfoEndpoint((userInfoEndpointConfig) -> userInfoEndpointConfig
